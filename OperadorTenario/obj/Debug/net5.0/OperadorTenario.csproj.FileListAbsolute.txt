@@ -1,0 +1,16 @@
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.exe
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.deps.json
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.runtimeconfig.json
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.runtimeconfig.dev.json
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.dll
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\bin\Debug\net5.0\OperadorTenario.pdb
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.csproj.AssemblyReference.cache
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.GeneratedMSBuildEditorConfig.editorconfig
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.AssemblyInfoInputs.cache
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.AssemblyInfo.cs
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.csproj.CoreCompileInputs.cache
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.dll
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\refint\OperadorTenario.dll
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.pdb
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\OperadorTenario.genruntimeconfig.cache
+D:\RelintonProjetos\OperadorTernarioConsole\OperadorTenario\obj\Debug\net5.0\ref\OperadorTenario.dll

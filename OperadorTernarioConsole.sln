@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01 - Operador_Tenario", "01 - Operador_Tenario", "{C10C1740-9EAF-40A2-88D7-2677325DE14A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTenario", "OperadorTenario\OperadorTenario.csproj", "{96A37859-8806-4FF1-9370-6BF6832039AE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02 - Operador_Ternario_Parametro_Metodo", "02 - Operador_Ternario_Parametro_Metodo", "{284DB8E3-C9AE-45A9-B9FD-8F178C5D010B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernarioParametroMetodo", "OperadorTernarioParametroMetodo\OperadorTernarioParametroMetodo.csproj", "{144FA11D-07C4-4355-B276-20A533580F4B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03 - Operador_Ternario_Null", "03 - Operador_Ternario_Null", "{94FF7DBF-DE1A-4E2E-B894-FB11AD0A1DD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorTernarioNull", "OperadorTernarioNull\OperadorTernarioNull.csproj", "{D7DE35EE-A778-4057-A719-F6EFA08FA386}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04 - Operador_Coalescente", "04 - Operador_Coalescente", "{1945A9AF-DDDA-4F18-9158-23876DDFC99F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OperadorCoalescente", "OperadorCoalescente\OperadorCoalescente.csproj", "{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{96A37859-8806-4FF1-9370-6BF6832039AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A37859-8806-4FF1-9370-6BF6832039AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A37859-8806-4FF1-9370-6BF6832039AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A37859-8806-4FF1-9370-6BF6832039AE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{144FA11D-07C4-4355-B276-20A533580F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{144FA11D-07C4-4355-B276-20A533580F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{144FA11D-07C4-4355-B276-20A533580F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{144FA11D-07C4-4355-B276-20A533580F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7DE35EE-A778-4057-A719-F6EFA08FA386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7DE35EE-A778-4057-A719-F6EFA08FA386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7DE35EE-A778-4057-A719-F6EFA08FA386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7DE35EE-A778-4057-A719-F6EFA08FA386}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{96A37859-8806-4FF1-9370-6BF6832039AE} = {C10C1740-9EAF-40A2-88D7-2677325DE14A}
+		{144FA11D-07C4-4355-B276-20A533580F4B} = {284DB8E3-C9AE-45A9-B9FD-8F178C5D010B}
+		{D7DE35EE-A778-4057-A719-F6EFA08FA386} = {94FF7DBF-DE1A-4E2E-B894-FB11AD0A1DD9}
+		{F8C35402-F65C-4FBE-8A4C-3F9E0A38A248} = {1945A9AF-DDDA-4F18-9158-23876DDFC99F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4FA45159-E4B9-4B1B-A922-661A49067604}
+	EndGlobalSection
+EndGlobal
